@@ -1,0 +1,11 @@
+C LIBRARY
+
+Please, include unistd.h and stdlib.h in order to get all functions working
+
+in my_str_to_word_array()
+replaced all 3 int by int*aci
+if does not work put back a c i separatedly
+as shown below
+int a = 0;
+int c = 0;
+int i = 0;
